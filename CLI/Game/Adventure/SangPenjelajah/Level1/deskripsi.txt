@@ -1,0 +1,22 @@
+Judul Game: Legenda Hutan Hitam
+
+Cerita Level 1:
+Kamu adalah seorang petualang muda yang mendengar kabar tentang Harta Karun Naga Tua yang tersembunyi di tengah Hutan Hitam. Konon, harta ini dijaga oleh monster-monster buas dan jebakan mematikan yang sudah lama terlupakan.
+
+Perjalananmu dimulai di tepi desa kecil.
+Penduduk desa memberi tahu bahwa untuk mencapai harta tersebut, kamu harus:
+1. Masuk ke Hutan Hitam, di mana kabut tebal dan suara binatang liar membuat bulu kuduk berdiri.
+2. Menghadapi Serigala Bayangan yang akan menyerangmu di tengah jalan.
+3. Menemukan pintu masuk gua kuno yang dijaga oleh kelelawar raksasa.
+4. Mengalahkan monster di dalam gua untuk bisa mencapai ruangan harta karun.
+
+Tapi hati-hati…
+1. Jika kamu kalah bertarung, kamu akan kembali ke desa dengan tangan kosong.
+2. Setiap pilihan yang kamu ambil bisa membawamu lebih dekat ke harta karun, atau justru ke dalam bahaya.
+
+Misi Level 1:
+1. Masuk hutan
+2. Kalahkan Serigala Bayangan
+3. Temukan pintu gua
+4. Lawan Kelelawar Raksasa
+5. Ambil peti harta karun

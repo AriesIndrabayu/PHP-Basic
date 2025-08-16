@@ -1,0 +1,16 @@
+{
+  "player": {
+    "nama": "Bayu",
+    "lokasi": "desa",
+    "hp": 100,
+    "max_hp": 100,
+    "atk": 1000,
+    "xp": 9000,
+    "level": 1
+  },
+  "inventory": {
+    "harta_karun": 1,
+    "koin": 500
+  },
+  "time": 8
+}
